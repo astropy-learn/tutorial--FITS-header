@@ -1,1 +1,1 @@
-AUTHOR1 (@GITHUB-USERNAME, ORCID-ID), AUTHOR2 (@GITHUB-USERNAME, ORCID-ID)
+Adrian Price-Whelan, Adam Ginsburg, Stephanie T. Douglas, Kelle Cruz
